@@ -1,1 +1,5 @@
-# Three-Starting-Point
+# gulp + browserify + scss + three 
+```
+npm install
+gulp all
+```
